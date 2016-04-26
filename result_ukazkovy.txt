@@ -1,0 +1,129 @@
+Mapa: 8x8, 6 pokladov
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 2 
+N·jdenÈ rieöenie:
+Fitness: 5961
+Program:
+244 159 32 78 157 92 97 13 40 88 206 63 118 8 95 174 43 110 176 72 198 46 58 205 202 236 13 130 212 180 204 202 172 100 18 190 168 105 148 57 150 216 103 162 233 12 149 99 7 226 47 23 34 50 37 78 100 94 22 93 110 52 62 139 
+Cesta:
+H, L, L, H, L, L, D, L, L, P, H, L, H, H, H, H, L, P, D, H, H, L, P, P, P, P, D, D, H, H, D, P, D, D, H, D, P, D, P, 
+PoËet krokov: 39
+Veækosù popul·cie: 100
+Elita: 2%
+KrÌûenci: 80%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 437
+Pocet mut·ciÌ: 219794
+
+Mapa: 7x7, 5 pokladov
+0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 
+0 0 0 2 0 0 0 
+N·jdenÈ rieöenie:
+Fitness: 4964
+Program:
+80 71 206 215 145 214 216 193 225 249 122 12 195 70 248 165 24 177 128 192 30 175 250 29 188 156 48 137 175 90 62 182 16 60 176 116 8 34 224 252 102 229 71 244 28 245 166 58 4 64 50 152 157 86 46 192 139 218 147 16 207 244 253 47 
+Cesta:
+L, H, P, P, L, L, H, L, P, P, H, L, H, P, D, P, L, H, P, D, H, L, H, P, D, D, L, H, P, D, P, L, H, P, D, P, 
+PoËet krokov: 36
+Veækosù popul·cie: 100
+Elita: 1%
+KrÌûenci: 75%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 18
+Pocet mut·ciÌ: 8663
+
+N·jdenÈ rieöenie:
+Fitness: 4944
+Program:
+95 117 83 10 223 162 10 110 92 113 1 150 253 133 37 75 183 10 191 69 182 141 246 155 254 17 149 126 82 95 15 39 84 157 193 14 239 34 118 93 242 137 48 164 253 4 38 206 161 243 9 84 195 182 139 176 65 191 34 21 217 235 9 93 
+Cesta:
+H, D, L, H, P, D, H, L, L, H, H, P, D, P, P, P, L, D, H, L, P, L, H, H, L, P, H, P, L, D, P, H, L, H, L, P, D, H, L, D, D, D, P, H, L, P, L, P, D, D, P, H, P, D, H, P, 
+PoËet krokov: 56
+Veækosù popul·cie: 200
+Elita: 2%
+KrÌûenci: 150%
+Pravdepodobnosù mut·cie: 0.001000
+Pocet generacii: 307
+Pocet mut·ciÌ: 31384
+
+N·jdenÈ rieöenie:
+Fitness: 4904
+Program:
+95 146 226 105 112 234 62 46 134 47 147 124 246 148 128 138 231 181 10 127 180 143 253 99 17 148 214 80 240 0 185 132 38 98 180 84 200 142 64 221 156 131 16 162 18 231 10 92 2 138 158 213 234 59 2 24 118 206 144 98 16 191 25 100 
+Cesta:
+H, P, L, P, L, P, L, D, P, L, H, P, L, P, P, L, H, P, L, D, P, L, P, P, L, L, P, L, D, P, L, H, P, L, L, P, L, H, P, L, L, P, L, L, P, L, P, P, L, P, P, L, H, P, L, D, P, L, H, P, L, L, P, L, H, P, L, P, P, L, H, P, L, P, P, L, P, P, L, L, P, L, D, P, L, P, P, L, L, P, L, D, P, L, P, P, 
+PoËet krokov: 96
+Veækosù popul·cie: 50
+Elita: 2%
+KrÌûenci: 37%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 24
+Pocet mut·ciÌ: 5676
+
+N·jdenÈ rieöenie:
+Fitness: 4922
+Program:
+103 164 90 86 218 135 48 0 186 182 48 216 222 244 66 154 57 25 53 221 96 6 66 15 210 224 38 182 212 142 95 248 104 198 127 26 144 144 120 91 80 74 194 78 65 176 212 165 213 8 25 23 248 119 135 222 180 204 37 238 124 73 254 64 
+Cesta:
+P, H, L, L, L, P, H, D, L, L, P, H, H, P, L, P, H, P, D, L, P, H, P, D, L, P, H, D, L, L, P, H, D, D, L, P, H, D, D, L, P, H, D, D, L, P, H, L, P, L, P, H, D, P, L, P, H, D, P, L, P, H, P, H, L, P, H, L, D, L, P, H, P, L, L, P, H, L, 
+PoËet krokov: 78
+Veækosù popul·cie: 100
+Elita: 5%
+KrÌûenci: 75%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 424
+Pocet mut·ciÌ: 207628
+
+N·jdenÈ rieöenie:
+Fitness: 4896
+Program:
+213 114 69 125 178 169 113 195 187 57 250 185 103 209 166 156 75 186 101 40 133 176 218 12 90 241 22 155 30 147 167 196 84 26 209 68 23 74 27 26 185 58 14 59 169 170 57 136 154 150 120 253 225 12 118 43 31 58 113 232 33 203 61 69 
+Cesta:
+P, L, H, P, L, P, L, H, P, L, P, H, D, P, L, P, L, L, P, L, P, L, L, P, L, P, L, L, P, L, P, L, P, P, L, P, L, P, P, L, P, L, H, P, L, P, L, P, P, L, P, L, H, P, L, P, L, L, P, L, P, L, D, P, L, P, L, H, P, L, P, L, L, P, L, P, L, P, P, L, P, L, P, P, L, P, L, H, P, L, P, L, D, P, L, P, L, P, P, L, P, L, D, P, 
+PoËet krokov: 104
+Veækosù popul·cie: 100
+Elita: 2%
+KrÌûenci: 20%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 125
+Pocet mut·ciÌ: 62245
+
+N·jdenÈ rieöenie:
+Fitness: 4904
+Program:
+204 95 244 206 158 164 134 47 56 66 38 42 2 120 198 253 133 175 92 40 92 24 238 32 195 64 92 85 148 92 196 236 203 34 62 170 76 82 192 224 228 2 232 135 232 172 73 16 86 56 74 162 165 156 152 46 88 202 28 80 244 20 71 214 
+Cesta:
+H, P, L, P, P, H, L, P, H, D, L, D, H, P, H, L, L, D, L, P, H, L, L, D, P, L, P, H, P, L, D, L, D, P, H, P, L, D, P, H, P, H, P, L, D, D, L, P, H, H, L, D, H, D, P, H, H, L, D, D, H, P, H, D, L, D, H, L, P, H, H, L, D, D, D, P, H, H, L, D, P, H, P, H, L, L, D, P, P, P, H, D, L, D, P, P, 
+PoËet krokov: 96
+Veækosù popul·cie: 100
+Elita: 2%
+KrÌûenci: 50%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 683
+Pocet mut·ciÌ: 344556
+
+N·jdenÈ rieöenie:
+Fitness: 4974
+Program:
+148 59 144 96 113 240 211 190 80 233 96 224 141 39 12 36 31 210 36 160 192 206 214 222 14 142 152 245 114 45 219 228 126 186 82 99 157 212 186 66 236 120 116 228 105 24 165 225 100 80 160 33 130 186 36 252 176 246 213 194 68 154 168 98 
+Cesta:
+P, H, L, L, H, L, P, H, L, P, H, L, P, P, P, H, L, L, P, P, P, D, P, L, D, P, 
+PoËet krokov: 26
+Veækosù popul·cie: 100
+Elita: 2%
+KrÌûenci: 80%
+Pravdepodobnosù mut·cie: 0.010000
+Pocet generacii: 265
+Pocet mut·ciÌ: 133313
+
